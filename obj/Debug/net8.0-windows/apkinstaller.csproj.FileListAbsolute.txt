@@ -1,0 +1,16 @@
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\obj\Debug\net8.0-windows\apkinstaller.Form1.resources
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\obj\Debug\net8.0-windows\apkinstaller.csproj.GenerateResource.cache
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\obj\Debug\net8.0-windows\apkinstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\obj\Debug\net8.0-windows\apkinstaller.AssemblyInfoInputs.cache
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\obj\Debug\net8.0-windows\apkinstaller.AssemblyInfo.cs
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\obj\Debug\net8.0-windows\apkinstaller.csproj.CoreCompileInputs.cache
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\bin\Debug\net8.0-windows\apkinstaller.exe
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\bin\Debug\net8.0-windows\apkinstaller.deps.json
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\bin\Debug\net8.0-windows\apkinstaller.runtimeconfig.json
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\bin\Debug\net8.0-windows\apkinstaller.dll
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\bin\Debug\net8.0-windows\apkinstaller.pdb
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\obj\Debug\net8.0-windows\apkinstaller.dll
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\obj\Debug\net8.0-windows\refint\apkinstaller.dll
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\obj\Debug\net8.0-windows\apkinstaller.pdb
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\obj\Debug\net8.0-windows\apkinstaller.genruntimeconfig.cache
+C:\Users\fish9504\Desktop\apk-installer\apkinstaller\obj\Debug\net8.0-windows\ref\apkinstaller.dll
